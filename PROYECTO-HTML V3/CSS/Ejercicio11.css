@@ -1,0 +1,19 @@
+#container{
+    background-color: #FF986E;
+    width: 1024px;
+    height: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-family: fantasy;
+    font-size: 40px;
+    color: #061412;
+    text-align: center;
+}
+.titulo{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: #46F5DC;
+    text-align: center;
+}

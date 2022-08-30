@@ -1,0 +1,23 @@
+#container{
+    background-color: #3A993A;
+    width: 1024px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    color: #E66EAA;
+    text-align: center;
+}
+.datos{
+    font-family: monospace;
+    font-size: 30px;
+    color: #E66EAA;
+}
+.sub{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    color: #E66EAA;
+}
