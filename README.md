@@ -1,6 +1,4 @@
 # HTML
-
-# HTML
 ## Informacion:
 
     ENTIDAD: Centro de Biotecnologia Agropecuaria
